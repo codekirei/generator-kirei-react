@@ -1,0 +1,23 @@
+{
+  "name": "generator-kirei-react",
+  "version": "0.1.0",
+  "description": "an opinionated yeoman generator for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codekirei/generator-kirei-react.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "react"
+  ],
+  "author": "Jacob Blakely (codekirei)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codekirei/generator-kirei-react/issues"
+  },
+  "homepage": "https://github.com/codekirei/generator-kirei-react#readme"
+}
