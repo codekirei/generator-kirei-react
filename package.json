@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/codekirei/generator-kirei-react/issues"
   },
-  "homepage": "https://github.com/codekirei/generator-kirei-react#readme"
+  "homepage": "https://github.com/codekirei/generator-kirei-react#readme",
+  "files": [
+    "generators/app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
 }
